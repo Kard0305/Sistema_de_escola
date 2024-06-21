@@ -1,0 +1,1 @@
+Este código Python implementa um sistema básico de gestão escolar usando MySQL como banco de dados. Ele permite adicionar alunos, professores e cursos, listar alunos, professores e cursos cadastrados, e fecha a conexão com o banco de dados quando o usuário decide sair.
